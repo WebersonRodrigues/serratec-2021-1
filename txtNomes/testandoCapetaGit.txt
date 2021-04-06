@@ -1,0 +1,5 @@
+vamos ver se vai por aqui
+
+git config --global user.name "Diego-Chirico"
+git config --global user.
+email diegochiricofullstack@gmail.com

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Arquivo txt Thamires Ramos :D
 
 Fazendo uma nova alteração!!
+=======
+teste
+>>>>>>> a16778174717bf3789707fa2e2862ba4c0c057fc

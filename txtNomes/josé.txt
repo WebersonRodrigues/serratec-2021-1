@@ -1,1 +1,4 @@
 teste
+
+git config --global user.name "José Quaresma"
+git config --global user.email quaresma2112stone@gmail.com

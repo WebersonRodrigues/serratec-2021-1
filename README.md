@@ -6,6 +6,7 @@ Teste com os alunos ;)
 Agora vai hein ...
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -17,3 +18,6 @@ Vinicius Gaspar Siqueira diz: Clonei aqui rapazeada e ta funcionando.
 
 Serase funfou
 >>>>>>> 467d7cd45c9f4c88cfd164bcaa5d95f9195b345b
+=======
+Testando
+>>>>>>> 674959e060ceb41716619768ce46d2242d882099

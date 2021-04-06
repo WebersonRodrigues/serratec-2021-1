@@ -5,7 +5,4 @@ Teste com os alunos ;)
 
 Agora vai hein ...
 
-
-Vinicius Gaspar Siqueira diz: Clonei aqui rapazeada e ta funcionando.
-
-Serase funfou
+Testando

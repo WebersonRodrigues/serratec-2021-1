@@ -1,0 +1,1 @@
+document.write("revisão de hoje...");

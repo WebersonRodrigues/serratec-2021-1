@@ -1,0 +1,6 @@
+teste
+
+git config --global user.name "José Quaresma"
+git config --global user.email quaresma2112stone@gmail.com
+
+git clone https://github.com/JoseQuaresma1/jose-1
